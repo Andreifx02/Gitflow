@@ -5,12 +5,11 @@
     <title> FPMI - Git task2</title>
 </head>
 <body>
-    <h1>Hi Alex!</h1>
-    <div>You are the best!</div>
-<<<<<<< HEAD
-=======
-244234
->>>>>>> hot-fix
+<select>
+  <option value="1">One</option>
+  <option value="2">Two</option>
+     
+</select>
 </body>
 
 </html>
