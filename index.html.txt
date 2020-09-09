@@ -7,6 +7,10 @@
 <body>
     <h1>Hi Alex!</h1>
     <div>You are the best!</div>
+<<<<<<< HEAD
+=======
+244234
+>>>>>>> hot-fix
 </body>
 
 </html>
